@@ -9,7 +9,7 @@ Before getting started, here is a demo https://www.youtube.com/watch?v=Nv-g-YnzY
 
 # What is This?
 
-Brian is a simple but extensible Python-based chatbot that utilizes your computer's microphone in conjunction with Google Cloud Platform's Speech-to-Text API. It then references a dictionary of responses which correspond to your sentences and, using Google's Text-to-Speech API, talks the response back to you.
+Brian is a simple but extensible Python-based chatbot that utilizes your computer's microphone in conjunction with Google Cloud Platform's Speech-to-Text API. It then references a dictionary of responses which correspond to your sentences and, using Google's Text-to-Speech API, talks the response back to you. Also, Brian has never heard about California. Evidently.
 
 # How to Run This?
 You need a Jupyter notebook/lab environment, Google Cloud Python library, and Wikipedia Python library
