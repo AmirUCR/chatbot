@@ -20,4 +20,4 @@ Follow this tutorial to install the required Google Cloud library and create a n
 
 Log-in to your Google Cloud Console. Create a new project, name it anything you want. In the left panel, select APIs & Services, then Credentials. Under Service Accounts, click on Manage service accounts. + Create Service Account. Name it something descriptive, like chatbot. Under Keys, click ADD KEY, Create new key, type: JSON. Name the JSON file key.json and place it in the same directory as the .ipynb files that you download from this repo.
 
-Cross your fingers and run chatbot.ipynb. If it doesn't work, feel free to message me and we will figure it out together :)
+Cross your fingers and run chatbot.ipynb. If it doesn't work, feel free to create an Issue and we will figure it out together :)
