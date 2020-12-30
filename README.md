@@ -9,7 +9,7 @@ Before getting started, here is a demo https://youtu.be/Nv-g-YnzYaA and https://
 
 # What is This?
 
-Brian is a simple but extensible Python-based chatbot that utilizes your computer's microphone in conjunction with Google Cloud Platform's Speech-to-Text API. It then references a dictionary of responses which correspond to your sentences and, using Google's Text-to-Speech API, talks the response back to you. There are predefined responses to queries such as "How are you?" However, if Brain does not know how to answer your question, it will look it up on Wikipedia! For example, if you ask Brian "Who is Alan Turing?" he will look it up on Wikipedia, and narrate a small blurb. Did you know that Alan Turing was a theoretical biologist?
+Brian is a simple yet extensible Python-based chatbot that showcases the power of Natural Language Processing. It utilizes your computer's microphone in conjunction with Google Cloud Platform's Speech-to-Text API, then references a dictionary of responses which correspond to your sentences and, using Google's Text-to-Speech API, talks the response back to you. There are predefined responses to queries such as "How are you?" However, if Brain does not know how to answer your "Who is...?" question, it will look it up on Wikipedia! For example, if you ask Brian "Who is Alan Turing?" he will look it up on Wikipedia, and narrate a small blurb. Did you know that Alan Turing was a theoretical biologist?
 
 
 Also, Brian has never heard about California. Evidently.
