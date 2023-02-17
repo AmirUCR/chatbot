@@ -3,7 +3,7 @@
 You cannot clone and run this code without getting an authentication key from Google's API first. Acquire and place your service account information in a key.json file in the same directory as the .ipynb files before running this program. Unfortunately, I cannot give you a key. For the "Why?" see this https://youtu.be/hrDcF-iwGhg
 
 
-In case you are a new programmer, NEVER share your private key on GitHub or anywhere else. It happened to me, it was painful. Also this program will only talk back if you are on Windows. To make the talk-back functionality work with other OS, modify the last if-statement in the google_tts.ipynb file.
+In case you are a new programmer, NEVER share your private key on GitHub or anywhere else. It happened to me, it was painful. Also this program will only talk back if you are on Windows. To make the talk-back functionality work with another OS, modify the last if-statement in the google_tts.ipynb file.
 
 Before getting started, here is a demo https://youtu.be/Nv-g-YnzYaA and https://youtu.be/T6KGbQ9ScLk please note that the first video was recorded when I was using Amazon's Text-to-Speech API with the Brian voice. This repo contains code for Google's Text-to-Speech which sounds different, but provides the same functionality.
 
